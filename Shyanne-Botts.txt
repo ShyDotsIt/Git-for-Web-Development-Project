@@ -20,17 +20,40 @@ Things like the title element.
 
 7. What is an id? 
 An id in HTML is a unique identifier meant to assist in identifying an element for styling amd scripting.
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
+  
+  8. What elements can I add an id to? 
+  Any of them as long as the same id is not assigned more than once.
+   
+   9. How many times can I use the same id on a page? 
+   One time only.
+    
     10. What is a class? 
+    A class is an identifier like an id but can be used more than once per page.
+    
     11. What elements can I add a class to? 
+    All.
+    
     12. How many times can I use the same class on a page? 
+    As many as necessary as long as it fits together.
+    
     13. How do I get my link to open in a new tab?
+    By adding a target attribute with a value of _blank
+    
     14. What is the alt attribute in the image tag used for? 
+    Accessibility, for screen readers.
+    
     15. How do I reference an id?
+    With a # before the id value.
+    
     16. What is the difference between a section and a div
+    In HTML, <section> means that the content inside is grouped and should appear as a entry in an outline of a page whereas <div> does not convey any meaning, aside from any found in its class, lang and title attributes.
+    
     17. What is CSS used for? 
+    Styling.
+    
     18. How to we select an element? Example - every h2 on the page
+    element {}
+    
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
