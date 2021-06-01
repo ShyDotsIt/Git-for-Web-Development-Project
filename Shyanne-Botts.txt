@@ -99,9 +99,16 @@ An id in HTML is a unique identifier meant to assist in identifying an element f
     rm
     
     34. Why should I use version control? 
+    It helps keep track of the changes that have been made making it easier to collaborate with another developer. It maintains a history of what has happened in a repo.
+    
     35. How often should I commit to github?
+    Any time you make a change that you'd like to be part of the final project or would like to reference later.
+    
     36. What is the command we would use to push our repo up to github? 
+    git push
+    
     37. Walk me through Lambda's git flow. 
+    Fork the original project repo, clone the forked repo to your local machine, create a branch of your own with your name, work on your project with frequent commits, adds, etc then finally push the work to github and create a pull request to submit.
 
 Stretch Questions
 
